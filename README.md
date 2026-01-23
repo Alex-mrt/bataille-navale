@@ -1,7 +1,7 @@
 # Bataille Navale
 
 Ce projet est une **implémentation du jeu Bataille Navale** réalisée avec **Thonny**.  
-Il a été développé dans un but **pédagogique**, à partir d’une base fournie par la professeure, qui avait déjà réalisé la majeure partie de l’interface graphique.
+Il a été développé dans un but **pédagogique** en groupe, à partir d’une base fournie par la professeure, qui avait déjà réalisé la majeure partie de l’interface graphique.
 
 ---
 
